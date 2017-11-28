@@ -13,7 +13,7 @@ Observe the files in this repo:
 ## Directions
 * Fork and clone this repo.
 * Wrap all content inside `body` in one `div` with the attribute `class="wrapper"`.  
-  * Don't forget to add a `</div>` at the end (right before `</body>`).
+  * Don't forget to add a `</div>` at the end (right before `</body>`). KD
 * Wrap all similarities in one `div` with the attribute `class="similarities"`.  
 * Wrap all differences in one `div` with the attribute `class="differences"`.  
 * Wrap the words **containers**, **block**, and **inline** in _their own_ `span` elements with attribute `class="blue"`.
